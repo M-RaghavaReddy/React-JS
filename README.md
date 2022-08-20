@@ -91,8 +91,6 @@ This  is all about explanation of how to use spread operator in javaScript
 
 48) React Interview Questions and Answers 
 
-React JS Full Course For Beginner Level 
-Node.js Tutorial for Beginners 
 
 Linked In : https://www.linkedin.com/in/raghavareddy-m-%EF%A3%BF-b462208b/
 Email : mrreddy92@gmail.com
