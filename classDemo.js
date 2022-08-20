@@ -1,0 +1,27 @@
+class human {
+    constructor() {
+        this.age = 1.5;
+    }
+     printAge () {
+        console.log( this.age);
+    }
+}
+class person extends human {
+    constructor() {
+        super();
+        this.name = "Chitti";
+    }
+     printName() {
+        console.log(this.name);
+    }
+    
+    
+}
+
+const age = new person;
+age.printAge();
+age.printName();
+const add = (num1,num2) => {
+    return num1+num2;
+}
+console.log(add(4,4));
